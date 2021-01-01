@@ -12,4 +12,4 @@ classification problems in the retail domain
 
 Please see detail in this project report: https://github.com/karanY2019/Few-Shot-Learning-Approaches-for-Retail-Product-Recognition/blob/main/Deep_Learning_Project_Final_Paper%20(3).pdf
 
-<img src="https://github.com/karanY2019/Few-Shot-Learning-Approaches-for-Retail-Product-Recognition/blob/main/model_figure.png" width="500px">
+<img src="https://github.com/karanY2019/Few-Shot-Learning-Approaches-for-Retail-Product-Recognition/blob/main/model_figure.png" width="800px">
